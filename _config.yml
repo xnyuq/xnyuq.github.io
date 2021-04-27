@@ -19,7 +19,7 @@ locale                   : "vi-VN"
 title                    : "xnyuq's Blog"
 title_separator          : "-"
 subtitle                 : Another ordinary blog # site tagline that appears below site title in masthead
-name                     : "Quy Nguyen"
+name                     : "Blog"
 description              : "Joy Seeker"
 url                      : https://xnyuq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -71,9 +71,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : xt081
+  username               : 
 facebook:
-  username               : kidsinluv
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Quy Nguyen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Infosec fellow"
   location         : "Hanoi, Vietnam"
   email            :
   links:
