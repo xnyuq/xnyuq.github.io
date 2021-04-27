@@ -102,22 +102,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tieptucmo@gmail.com"
+       #url: "mailto:tieptucmo@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://xnyuq.github.io"
+       #url: "https://xnyuq.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/xt081"
+       #url: "https://twitter.com/xt081"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/kidsinluv"
+       #url: "https://facebook.com/kidsinluv"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/xnyuq"
+       #url: "https://github.com/xnyuq"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/xnyuq"
+       #url: "https://instagram.com/xnyuq"
 
 # Site Footer
 footer:
