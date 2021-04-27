@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "xnyuq's Blog"
 title_separator          : "-"
 subtitle                 : Another ordinary blog # site tagline that appears below site title in masthead
-name                     : "Blog"
-description              : "Joy Seeker"
+name                     : "xnyuq's Blog"
+description              : "Learning infosec blogging"
 url                      : https://xnyuq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : xnyuq/xnyuq.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Quy Nguyen"
   avatar           : /assets/img/bio.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Infosec fellow"
+  bio              : "Learning stuffs"
   location         : "Hanoi, Vietnam"
   email            : tieptucmo@gmail.com
   links:
