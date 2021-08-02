@@ -30,11 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-<<<<<<< HEAD
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-=======
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
->>>>>>> 9269842e9dceed85021d657bdc80fb0ddbb26b3c
   disqus:
     shortname            : xnyuq # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
